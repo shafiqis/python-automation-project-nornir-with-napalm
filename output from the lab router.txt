@@ -1,0 +1,56 @@
+Data for fornetconf:
+{
+    "facts": {
+        "uptime": 178740.0,
+        "vendor": "Cisco",
+        "os_version": "Virtual XE Software (X86_64_LINUX_IOSD-UNIVERSALK9-M), Version 17.2.1r, RELEASE SOFTWARE (fc2)",
+        "serial_number": "9DY83HTZMCX",
+        "model": "CSR1000V",
+        "hostname": "fornetconf",
+        "fqdn": "fornetconf.mydomain.com",
+        "interface_list": [
+            "GigabitEthernet1",
+            "GigabitEthernet2",
+            "GigabitEthernet3",
+            "GigabitEthernet4"
+        ]
+    },
+    "interfaces": {
+        "GigabitEthernet1": {
+            "is_enabled": true,
+            "is_up": true,
+            "description": "",
+            "mac_address": "0C:26:4C:AC:00:00",
+            "last_flapped": -1.0,
+            "mtu": 1500,
+            "speed": 1000.0
+        },
+        "GigabitEthernet2": {
+            "is_enabled": true,
+            "is_up": false,
+            "description": "",
+            "mac_address": "0C:26:4C:AC:00:01",
+            "last_flapped": -1.0,
+            "mtu": 1500,
+            "speed": 1000.0
+        },
+        "GigabitEthernet3": {
+            "is_enabled": true,
+            "is_up": false,
+            "description": "",
+            "mac_address": "0C:26:4C:AC:00:02",
+            "last_flapped": -1.0,
+            "mtu": 1500,
+            "speed": 1000.0
+        },
+        "GigabitEthernet4": {
+            "is_enabled": true,
+            "is_up": false,
+            "description": "",
+            "mac_address": "0C:26:4C:AC:00:03",
+            "last_flapped": -1.0,
+            "mtu": 1500,
+            "speed": 1000.0
+        }
+    }
+}
