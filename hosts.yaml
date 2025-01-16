@@ -1,0 +1,5 @@
+fornetconf:
+  hostname: 192.168.96.133
+  username: admin
+  password: Hellog@123
+  platform: ios

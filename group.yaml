@@ -1,0 +1,3 @@
+defaults:
+  data:
+    napalm_driver: ios
